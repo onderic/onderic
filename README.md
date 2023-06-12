@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @onderic
-- 👀 I’m interested in python prigramming language
-- 🌱 I’m currently learning OOP and design patterns in python
-- 💞️ I’m looking to collaborate on different open source projects
-- 📫 Reach via my email address ondericollins80@gmail.com
+👋 Hi, I'm @onderic, a full-stack developer with expertise in both frontend and backend technologies. Here's an overview of my skills and experience:
 
-<!---
-onderic/onderic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend: Vue.js, HTML, CSS, and Tailwind CSS
+Backend: Python, Django and Django Rest Framework
+Database: PostgreSQL
+I have a strong passion for creating dynamic and interactive web applications from end to end. I enjoy working on both the frontend and backend to bring ideas to life and deliver seamless user experiences.
+
+Currently, I'm actively seeking full-stack opportunities where I can utilize my skills and contribute to the development of robust and scalable applications. I'm open to collaborating with teams or taking on individual projects to create innovative solutions.
+
+If you have any full-stack development opportunities or projects in mind, I would love to hear from you. Feel free to reach out to me via email at ondericollins80@gmail.com to discuss potential collaborations or to learn more about my work.
+
+You can explore my GitHub repositories to see examples of my full-stack projects and get a sense of my coding style and approach. I'm excited to connect with like-minded professionals and contribute to impactful projects in the full-stack development space.
