@@ -1,8 +1,8 @@
 👋 Hi, I'm @onderic, a full-stack developer with expertise in both frontend and backend technologies. Here's an overview of my skills and experience:
 
-Frontend: Vue.js, HTML, CSS, and Tailwind CSS
-Backend: Python, Django and Django Rest Framework
-Database: PostgreSQL
+Frontend: Vue.js, Nuxt, HTML, CSS, and Tailwind CSS
+Backend: Python, typescript 
+Database: PostgreSQL, mongodb
 I have a strong passion for creating dynamic and interactive web applications from end to end. I enjoy working on both the frontend and backend to bring ideas to life and deliver seamless user experiences.
 
 Currently, I'm actively seeking full-stack opportunities where I can utilize my skills and contribute to the development of robust and scalable applications. I'm open to collaborating with teams or taking on individual projects to create innovative solutions.
