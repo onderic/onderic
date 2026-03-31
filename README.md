@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Onderi Collins
+# 👋 Hi, I'm Onderi
 
 🚀 Full-Stack & Mobile Software Engineer  
 📍 Nairobi, Kenya  
