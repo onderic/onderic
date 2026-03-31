@@ -66,13 +66,6 @@ With 5+ years of experience, I focus on clean architecture, performance, and shi
 - Reusable Nuxt + Django boilerplate  
 - Speeds up product development  
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
-
----
 
 ## 🤝 Let's Connect
 
