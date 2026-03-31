@@ -1,12 +1,85 @@
-👋 Hi, I'm @onderic, a full-stack developer with expertise in both frontend and backend technologies. Here's an overview of my skills and experience:
+# 👋 Hi, I'm Onderi Collins
 
-Frontend: Vue.js, Nuxt, HTML, CSS, and Tailwind CSS
-Backend: Python, typescript 
-Database: PostgreSQL, mongodb
-I have a strong passion for creating dynamic and interactive web applications from end to end. I enjoy working on both the frontend and backend to bring ideas to life and deliver seamless user experiences.
+🚀 Full-Stack & Mobile Software Engineer  
+📍 Nairobi, Kenya  
 
-Currently, I'm actively seeking full-stack opportunities where I can utilize my skills and contribute to the development of robust and scalable applications. I'm open to collaborating with teams or taking on individual projects to create innovative solutions.
+I build scalable backend systems, cross-platform mobile apps, and real-time IoT platforms.  
+With 5+ years of experience, I focus on clean architecture, performance, and shipping reliable products.
 
-If you have any full-stack development opportunities or projects in mind, I would love to hear from you. Feel free to reach out to me via email at ondericollins80@gmail.com to discuss potential collaborations or to learn more about my work.
+---
 
-You can explore my GitHub repositories to see examples of my full-stack projects and get a sense of my coding style and approach. I'm excited to connect with like-minded professionals and contribute to impactful projects in the full-stack development space.
+## 🛠 Tech Stack
+
+**Mobile**
+- Flutter (Dart)
+- Cross-platform app development
+- REST API integration
+
+**Backend**
+- Django, Python
+- Node.js, Nitro
+- Microservices & system design
+
+**Frontend**
+- Nuxt.js, Vue.js
+- Tailwind CSS, JavaScript
+
+**IoT & Data**
+- Telematics systems
+- Sensor integration
+- Real-time data streaming
+
+**Databases**
+- MongoDB, PostgreSQL, MySQL, Redis
+
+**DevOps**
+- Docker, CI/CD
+- AWS, Git
+
+---
+
+## 🔥 What I Do
+
+- Build **Flutter mobile apps** with smooth UX and scalable architecture  
+- Design **high-performance APIs** and backend systems  
+- Work with **IoT data pipelines** and real-time streaming systems  
+- Turn complex data into **simple, usable products**  
+
+---
+
+## 📱 Featured Work
+
+### 🚗 EV Telematics Platform
+- Real-time vehicle tracking & analytics  
+- Built with Django microservices  
+- Handles high-volume IoT data streams  
+
+### 🌾 Agri-Sensor Hub
+- Processes farm sensor data at scale  
+- Provides real-time insights for farmers  
+
+### 📲 Mobile Monitoring Apps
+- Built using Flutter  
+- Real-time dashboards and data visualization  
+
+### ⚙️ SaaS Framework
+- Reusable Nuxt + Django boilerplate  
+- Speeds up product development  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: ondericollins80@gmail.com  
+- 📱 Phone: 0798335657  
+
+---
+
+## ⚡ Fun Fact
+I enjoy building systems that handle real-world data — from vehicles to farms — and turning them into meaningful insights.
